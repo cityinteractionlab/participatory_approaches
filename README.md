@@ -17,7 +17,8 @@ Some papers and write-ups on participatory projects at different scales:
 
 ## Scheme of the projects 
 
-From a broader perspective participatory and citizen science projects can be described using 
+From a broader perspective participatory and citizen science projects can be described using the following diagram
+
 ![plot](./figures/co-production workshops.PNG)
 
 # Who is involved?
