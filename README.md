@@ -19,7 +19,7 @@ Some papers and write-ups on participatory projects at different scales:
 
 From a broader perspective participatory and citizen science projects can be described using the following diagram
 
-![plot](../figures/co-production workshops.PNG)
+![plot](https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG)
 
 # Who is involved?
 People and organisations involved in discussions currently: ird (France), munich university (France), lpi (France), ucl (UK), praxis hub (France). 
