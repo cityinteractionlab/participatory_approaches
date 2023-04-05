@@ -15,9 +15,10 @@ Some papers and write-ups on participatory projects at different scales:
 - citizen science projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
 
 
-## Scheme of the projects 
+## Scheme of the participatory projects 
 
-From a broader perspective participatory and citizen science projects can be described using the following diagram
+From a broader perspective participatory and citizen science projects can be described using the following diagram.
+We propose a circular scheme for participatory projects which allows for keeping knowledge production active and in the curated cycle. 
 
 ![plot](https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG)
 
