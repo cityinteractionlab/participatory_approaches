@@ -7,13 +7,15 @@ Some examples of projects like this include a) citizen science activities, b) pl
 
 Public engagement in the research process can be used to increase the scale and impact of research, engage citizens in scientific research, and address scientific questions by having large amounts of data. However, the involvement of the public in the steps is often limited to data collection and is rarely involved in the other steps of the research process (Skarlatidou et al. 2021). 
 
-## Literature 
+## Literature and reading list   
+
 
 Some papers and write-ups on participatory projects at different scales:
 
 - participatory rural approaches with great overview of methods (actual even now) https://www.sciencedirect.com/science/article/abs/pii/0305750X94901414
 - recent paper by Utrecht University colleagues: Power and politics in stakeholder engagement: farm dweller (in)visibility and conversions to game farming in South Africa
 - citizen science projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
+
 
 
 ## Scheme of the participatory projects 
