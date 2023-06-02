@@ -1,5 +1,5 @@
-# What is this repository for?
-The repository to document the participatory approaches, methodologies to study them and workshops organized.
+# What is the aim of the project and repository?
+The repository documents the participatory approaches framework, literature and methodologies to study them and workshops organized using these methodologies.
 The main idea behind the co-production workshops is to co-design solutions and make analysis of sustainability issues fostering collective intelligence. 
 Some examples of projects like this include a) citizen science activities, b) places making workshops https://github.com/Liyubov/placemaking_analysis 
 
