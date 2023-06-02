@@ -10,13 +10,22 @@ Public engagement in the research process can be used to increase the scale and 
 ## Literature and reading list   
 
 
-Some papers and write-ups on participatory projects at different scales:
+Papers, books, reports  on participatory projects can be devided into two groups:
+1. Academic literature on co-production during participatory projects 
+2. Hands-on reports
 
-- participatory rural approaches with great overview of methods (actual even now) https://www.sciencedirect.com/science/article/abs/pii/0305750X94901414
-- recent paper by Utrecht University colleagues: Power and politics in stakeholder engagement: farm dweller (in)visibility and conversions to game farming in South Africa
-- citizen science projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
+We hence structure the literature to these two groups:
 
+1. Academic literature:
+- #antrhopology such as participatory rural approaches with great overview of methods (actual even now) https://www.sciencedirect.com/science/article/abs/pii/0305750X94901414
+- #computer science, #participatorymodeling participatory modeling Bousquet et Le Page, 2004
+- #antrhopology, #economics, #sociology recent paper by Utrecht University colleagues: Power and politics in stakeholder engagement: farm dweller (in)visibility and conversions to game farming in South Africa
+- #citizenscience, #urbanism projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
 
+2. Hands-on approaches:
+- Nesta report on participatory methods, OpenCovid and related practices for collaborations
+- SALT approach, which tries to invest into the participatory techniques and building community ownership
+- COMMOD, ARDI frameworks as more advanced techniques for assisting participatory modeling
 
 ## Scheme of the participatory projects 
 
