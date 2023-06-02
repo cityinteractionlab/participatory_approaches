@@ -1,6 +1,7 @@
 # What is this repository for?
 The repository to document the participatory approaches, methodologies to study them and workshops organized.
 The main idea behind the co-production workshops is to co-design solutions and make analysis of sustainability issues fostering collective intelligence. 
+Some examples of projects like this include a) citizen science activities, b) places making workshops https://github.com/Liyubov/placemaking_analysis 
 
 ## Background on participatory approaches 
 
