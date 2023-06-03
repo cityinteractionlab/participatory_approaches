@@ -18,14 +18,14 @@ We hence structure the literature to these two groups:
 
 1. Academic literature:
 - #antrhopology such as participatory rural approaches with great overview of methods (actual even now) https://www.sciencedirect.com/science/article/abs/pii/0305750X94901414
-- #computer science, #participatorymodeling participatory modeling Bousquet et Le Page, 2004
+- #computer science, #participatorymodeling participatory modeling (Bousquet et Le Page, 2004)
 - #antrhopology, #economics, #sociology recent paper by Utrecht University colleagues: Power and politics in stakeholder engagement: farm dweller (in)visibility and conversions to game farming in South Africa
 - #citizenscience, #urbanism projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
 
 2. Hands-on approaches:
 - Nesta report on participatory methods, OpenCovid and related practices for collaborations
-- SALT approach, which tries to invest into the participatory techniques and building community ownership
-- COMMOD, ARDI frameworks as more advanced techniques for assisting participatory modeling
+- SALT approach, which tries to invest into the participatory techniques and building community ownership https://the-constellation.org/india-salt-and-on-alcoholism-and-bonded-labour-in-participatory-action-research/
+- COMMOD, ARDI frameworks as more advanced techniques for assisting participatory modeling (Ettiene et al. 2014)
 
 ## Scheme of the participatory projects 
 
@@ -35,6 +35,6 @@ We propose a circular scheme for participatory projects which allows for keeping
 ![plot](https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG)
 
 # Who is involved?
-People and organisations involved in discussions currently: ird (France), munich university (France), lpi (France), ucl (UK), praxis hub (France). 
+People and organisations involved in discussions currently: ird (France), munich university (France), lpi (France), ucl (UK), Life itself praxis hub (France). 
 
 
