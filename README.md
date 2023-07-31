@@ -1,5 +1,5 @@
 # What is the aim of the project and repository?
-The repository documents the participatory approaches framework, literature and methodologies to study them and workshops organized using these methodologies.
+The repository documents several participatory approaches frameworks, literature and methodologies to study them and workshops organized using these methodologies in various context.
 The main idea behind the co-production workshops is to co-design solutions and make analysis of sustainability issues fostering collective intelligence. 
 Some examples of projects like this include a) citizen science activities, b) places making workshops https://github.com/Liyubov/placemaking_analysis 
 
@@ -12,7 +12,7 @@ Public engagement in the research process can be used to increase the scale and 
 
 Papers, books, reports  on participatory projects can be devided into two groups:
 1. Academic literature on co-production during participatory projects 
-2. Hands-on reports
+2. Hands-on reports 
 
 We hence structure the literature to these two groups:
 
@@ -20,12 +20,14 @@ We hence structure the literature to these two groups:
 - #antrhopology such as participatory rural approaches with great overview of methods (actual even now) https://www.sciencedirect.com/science/article/abs/pii/0305750X94901414
 - #computer science, #participatorymodeling participatory modeling (Bousquet et Le Page, 2004)
 - #antrhopology, #economics, #sociology recent paper by Utrecht University colleagues: Power and politics in stakeholder engagement: farm dweller (in)visibility and conversions to game farming in South Africa
-- #citizenscience, #urbanism projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6 
+- #citizenscience, #urbanism projects and local urbanism perspectives https://liubauer.medium.com/notes-on-local-and-global-actions-in-our-cities-citizen-science-community-e0709d490fe6
+- #participatory projects such as seminal papers on Revisiting the Commons: Local Lessons, Global Challenges by Elinor Ostrom et al. in 1999 where the authors discuss main challenges faced by various collectives in common decision making process 
 
 2. Hands-on approaches:
 - Nesta report on participatory methods, OpenCovid and related practices for collaborations
 - SALT approach, which tries to invest into the participatory techniques and building community ownership https://the-constellation.org/india-salt-and-on-alcoholism-and-bonded-labour-in-participatory-action-research/
 - COMMOD, ARDI frameworks as more advanced techniques for assisting participatory modeling (Ettiene et al. 2014)
+- thriving earth exchange program published various reports on their activites  https://thrivingearthexchange.org/
 
 ## Scheme of the participatory projects 
 
